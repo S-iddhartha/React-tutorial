@@ -1,0 +1,512 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:expo-permissions] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/597b24bcfbbceebc6eea7022aa7a825a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1274ed856affba0ece60c8003ad669c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/dc72f13437f04d8ad174374328504e67/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/e97190b5768cbbefb2e6c6b034e6ef25/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/2950bb1fdfd8d9a9187b407189ab2232/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/f6dae1771e3ec84257ed612f7d5f0a4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0e318a49cc5b9944863456244e6b375b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b3670cd49201702475ead25e92bb7308/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4f467fe0e625e47e360f28b9ad1d4058/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/eb6623cf5d1f1ca5162cd6ccfc183625/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/923bfabce9309e16a73ba1577de81d75/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/5cae3bb5fca123f553e4ca529d1edf7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d852307fb6cf5d0507b35c726dbe5807/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/87ec335ba561dc74def68b8d3572ea71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/90f9c6f8feea705a78dc96f8ef28e523/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/4451cd0be8afebdadf511d120b59adae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cd6e26fb4e2cb94ec0114839415490c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/e795adb74eab5868e9db5d91e3435445/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/18ad624676a2eb473839e0fde8cf65ec/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/22a3d7ec3afda1f7cb40accca61af69c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/782c569ad03989efb99f982bf7c383be/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dfda20545afb5eb6a25f45455412325a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/17c6f9785b63aa0fde7313132b9d7ed4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/b0dbe54c502177f0486a54b449bb407c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/42c44d1ca23d8e1e9eb06907744be2c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b39daed85773b061df9456429ba2a4f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8a8aae5f3d474a57998db07a2ce1c155/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/3565af32fbb88c8f1de861a1098e6613/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/85407db8b4442d0e92892187ff126a37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/ba8f0677d419093fffac72a5b36016f7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/1b4494d814e55c5851da1fdcdf5873be/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7547d30865f3d820b5bf5178b3b6e546/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/d7c3348d65632cf23b43597fe81443d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/92a0298c9f803277584773b0b2f5f260/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/c81e85045e44fb08b853483247c4acf8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/53655ff26a0ab3523971290f7c884bb6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/4d384f46ac520836514ec51a6abe77ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/b81275b673ccb6689a53d0de036d02cd/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/7aa3a2b703a9e34d5670769746b108cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/06116f1c4eb8b3d1c3f1fba398800c98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/9485bdb6a3e13f667573a140f8b79c5e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/47e7b5c9f0bcf64079bae5eb95715a15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ff7f67e9a0666630ca44ad83cb0c45fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4e738071f775f8236e916e0c0d91d572/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/71750dec921c5fc0885653c8fac9b57f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/2fc93497fc2d68132eb9f0b76a0ec9cf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/dc4a3de571ef4f657c94ef11853ad97b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/0dee639bd198181e2d291d45e9ccb469/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/554df799bfa7d9e334ab5e2664aca329/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/bcb2f4731ae1ba19783e86e6f4aed2ac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/10b362c89189afcf38c7f01dd2ec482e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/c3e3446148b3c0d87ad58aaa5c9aa6db/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/66aa07a0b52f46984868649141cab9b1/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/55e75990b236c6c51ba95c5e51d01e31/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:5-20
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/597b24bcfbbceebc6eea7022aa7a825a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/597b24bcfbbceebc6eea7022aa7a825a/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1274ed856affba0ece60c8003ad669c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1274ed856affba0ece60c8003ad669c/AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0e318a49cc5b9944863456244e6b375b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0e318a49cc5b9944863456244e6b375b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b3670cd49201702475ead25e92bb7308/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b3670cd49201702475ead25e92bb7308/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4f467fe0e625e47e360f28b9ad1d4058/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4f467fe0e625e47e360f28b9ad1d4058/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/eb6623cf5d1f1ca5162cd6ccfc183625/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/eb6623cf5d1f1ca5162cd6ccfc183625/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/923bfabce9309e16a73ba1577de81d75/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/923bfabce9309e16a73ba1577de81d75/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/18ad624676a2eb473839e0fde8cf65ec/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/18ad624676a2eb473839e0fde8cf65ec/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7547d30865f3d820b5bf5178b3b6e546/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7547d30865f3d820b5bf5178b3b6e546/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/b81275b673ccb6689a53d0de036d02cd/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/b81275b673ccb6689a53d0de036d02cd/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/71750dec921c5fc0885653c8fac9b57f/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/71750dec921c5fc0885653c8fac9b57f/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/66aa07a0b52f46984868649141cab9b1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/66aa07a0b52f46984868649141cab9b1/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7547d30865f3d820b5bf5178b3b6e546/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.a.MainActivity
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+MERGED from [:expo-permissions] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/597b24bcfbbceebc6eea7022aa7a825a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/597b24bcfbbceebc6eea7022aa7a825a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1274ed856affba0ece60c8003ad669c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1274ed856affba0ece60c8003ad669c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/dc72f13437f04d8ad174374328504e67/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/dc72f13437f04d8ad174374328504e67/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/e97190b5768cbbefb2e6c6b034e6ef25/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/e97190b5768cbbefb2e6c6b034e6ef25/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/2950bb1fdfd8d9a9187b407189ab2232/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/2950bb1fdfd8d9a9187b407189ab2232/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/f6dae1771e3ec84257ed612f7d5f0a4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/f6dae1771e3ec84257ed612f7d5f0a4c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0e318a49cc5b9944863456244e6b375b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0e318a49cc5b9944863456244e6b375b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b3670cd49201702475ead25e92bb7308/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b3670cd49201702475ead25e92bb7308/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4f467fe0e625e47e360f28b9ad1d4058/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4f467fe0e625e47e360f28b9ad1d4058/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/eb6623cf5d1f1ca5162cd6ccfc183625/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/eb6623cf5d1f1ca5162cd6ccfc183625/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/923bfabce9309e16a73ba1577de81d75/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/923bfabce9309e16a73ba1577de81d75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/5cae3bb5fca123f553e4ca529d1edf7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/5cae3bb5fca123f553e4ca529d1edf7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d852307fb6cf5d0507b35c726dbe5807/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d852307fb6cf5d0507b35c726dbe5807/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/87ec335ba561dc74def68b8d3572ea71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/87ec335ba561dc74def68b8d3572ea71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/90f9c6f8feea705a78dc96f8ef28e523/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/90f9c6f8feea705a78dc96f8ef28e523/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/4451cd0be8afebdadf511d120b59adae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/4451cd0be8afebdadf511d120b59adae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cd6e26fb4e2cb94ec0114839415490c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cd6e26fb4e2cb94ec0114839415490c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/e795adb74eab5868e9db5d91e3435445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/e795adb74eab5868e9db5d91e3435445/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/18ad624676a2eb473839e0fde8cf65ec/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/18ad624676a2eb473839e0fde8cf65ec/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/22a3d7ec3afda1f7cb40accca61af69c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/22a3d7ec3afda1f7cb40accca61af69c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/782c569ad03989efb99f982bf7c383be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/782c569ad03989efb99f982bf7c383be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dfda20545afb5eb6a25f45455412325a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dfda20545afb5eb6a25f45455412325a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/17c6f9785b63aa0fde7313132b9d7ed4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/17c6f9785b63aa0fde7313132b9d7ed4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/b0dbe54c502177f0486a54b449bb407c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/b0dbe54c502177f0486a54b449bb407c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/42c44d1ca23d8e1e9eb06907744be2c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/42c44d1ca23d8e1e9eb06907744be2c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b39daed85773b061df9456429ba2a4f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b39daed85773b061df9456429ba2a4f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8a8aae5f3d474a57998db07a2ce1c155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8a8aae5f3d474a57998db07a2ce1c155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/3565af32fbb88c8f1de861a1098e6613/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/3565af32fbb88c8f1de861a1098e6613/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/85407db8b4442d0e92892187ff126a37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/85407db8b4442d0e92892187ff126a37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/ba8f0677d419093fffac72a5b36016f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/ba8f0677d419093fffac72a5b36016f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/1b4494d814e55c5851da1fdcdf5873be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/1b4494d814e55c5851da1fdcdf5873be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7547d30865f3d820b5bf5178b3b6e546/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7547d30865f3d820b5bf5178b3b6e546/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/d7c3348d65632cf23b43597fe81443d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/d7c3348d65632cf23b43597fe81443d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/92a0298c9f803277584773b0b2f5f260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/92a0298c9f803277584773b0b2f5f260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/c81e85045e44fb08b853483247c4acf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/c81e85045e44fb08b853483247c4acf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/53655ff26a0ab3523971290f7c884bb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/53655ff26a0ab3523971290f7c884bb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/4d384f46ac520836514ec51a6abe77ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/4d384f46ac520836514ec51a6abe77ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/b81275b673ccb6689a53d0de036d02cd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/b81275b673ccb6689a53d0de036d02cd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/7aa3a2b703a9e34d5670769746b108cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/7aa3a2b703a9e34d5670769746b108cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/06116f1c4eb8b3d1c3f1fba398800c98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/06116f1c4eb8b3d1c3f1fba398800c98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/9485bdb6a3e13f667573a140f8b79c5e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/9485bdb6a3e13f667573a140f8b79c5e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/47e7b5c9f0bcf64079bae5eb95715a15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/47e7b5c9f0bcf64079bae5eb95715a15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ff7f67e9a0666630ca44ad83cb0c45fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ff7f67e9a0666630ca44ad83cb0c45fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4e738071f775f8236e916e0c0d91d572/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4e738071f775f8236e916e0c0d91d572/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/71750dec921c5fc0885653c8fac9b57f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/71750dec921c5fc0885653c8fac9b57f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/2fc93497fc2d68132eb9f0b76a0ec9cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/2fc93497fc2d68132eb9f0b76a0ec9cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/dc4a3de571ef4f657c94ef11853ad97b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/dc4a3de571ef4f657c94ef11853ad97b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/0dee639bd198181e2d291d45e9ccb469/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/0dee639bd198181e2d291d45e9ccb469/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/554df799bfa7d9e334ab5e2664aca329/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/554df799bfa7d9e334ab5e2664aca329/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/bcb2f4731ae1ba19783e86e6f4aed2ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/bcb2f4731ae1ba19783e86e6f4aed2ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/10b362c89189afcf38c7f01dd2ec482e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/10b362c89189afcf38c7f01dd2ec482e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/c3e3446148b3c0d87ad58aaa5c9aa6db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/c3e3446148b3c0d87ad58aaa5c9aa6db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/66aa07a0b52f46984868649141cab9b1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/66aa07a0b52f46984868649141cab9b1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/55e75990b236c6c51ba95c5e51d01e31/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/55e75990b236c6c51ba95c5e51d01e31/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/siddhartha/All_in_One/react native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /home/siddhartha/All_in_One/react native/AwesomeProject/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b3670cd49201702475ead25e92bb7308/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b3670cd49201702475ead25e92bb7308/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b3670cd49201702475ead25e92bb7308/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b3670cd49201702475ead25e92bb7308/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/923bfabce9309e16a73ba1577de81d75/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/923bfabce9309e16a73ba1577de81d75/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/923bfabce9309e16a73ba1577de81d75/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/siddhartha/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/f1f7ac1632bc0f4b9e5ec00bd9b29440/AndroidManifest.xml:26:13-120

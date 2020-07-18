@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/siddhartha/All_in_One/react native/AwesomeProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/siddhartha/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/dc72f13437f04d8ad174374328504e67/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/siddhartha/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7547d30865f3d820b5bf5178b3b6e546/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
